@@ -1,0 +1,830 @@
+@media screen and (min-width: 900px) and (max-width: 1200px) {
+    /* header{
+        width: 100%;
+    } */
+    .active{
+        width: 900px;
+    }
+    .slider1{
+        width: 900px;
+    }
+    .header_slider .slider .slider1 img{
+        width: 900px;
+        height: 83vh;
+    }
+    .header2 .header2_fon .header_fon_text{
+        width: 40%;
+        height: 100vh;
+    }
+    .header2 .header2_fon{
+        width: 100%;
+        margin: 0 auto;
+        height: 70vh;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30px;
+    }
+    .body1 .service{
+        padding-top: 20px;
+    }
+    .body1 .body1_fon{
+        margin-top: 50px;
+        margin-left: 50px;
+        width: 95%;
+        height: 500px;
+        display: flex;
+        justify-content: space-around;
+    }
+    .body1 .body1_fon .body1_fon1{
+        width: 300px;
+    }
+    .body1 .body1_fon .body1_fon1 img{
+        width: 250px;
+    }
+    .body2 .body22{
+        display: inline;
+        justify-content: space-around;
+        width: 900px;
+    }
+    .body2{
+        width: 90%;
+        margin: 0 auto;
+        min-height: 850px;
+    }
+    .bod22 img{
+        margin: 0 auto;
+    }
+    .galery{
+        width: 100%;
+    }
+    .galery .imgs1{
+        width: 90%;
+        display: inline;
+        padding-top: 10px;
+        margin: 0 auto;
+    }
+    .galery .imgs1 img{
+        width: 45%;
+        padding-top: 10px;
+        margin: 0 auto;
+    }
+    .team .teem_image h4{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .team .teem_image h5{
+        width: 100%;
+        margin-top: 0;
+    }
+    .team .teem_image{
+        width: 100%;
+        display: flex;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    .team{
+        height: 1200px;
+    }
+    .team .teem_images{
+        margin: 0 auto;
+        display: inline-block;
+    }
+    .team .teem_images .teem_image .teemimg{
+        background: #e5e5e5;
+        width: 240px;
+        height: 250px;
+        
+    }
+    .plan .plan_card{
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 95%;
+        height: 470px;
+        display: flex;
+        text-align: center;
+        justify-content: space-between;
+    }
+    .plan .plan_card .plan_cards{
+        width: 250px;
+        height: 430px;
+        background: #fff;
+    }
+    .plan .plan_card .plan_cards img{
+        width: 100%;
+    }
+    .footer1_card{
+        width: 100%;
+        display: inline;
+        margin: 0 auto;
+    }
+    .footer1_cards{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .footer1_cards img{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .footer1_text{
+        width: 70%;
+        height: 270px;
+        background: #F6F8FA;
+        padding-left: 15px;
+        border-radius: 15px;
+        border: 1px solid black;
+        position: relative;
+        top: -30px;
+    }
+    .footer2_text{
+        text-align: center;
+        position: relative;
+        top: -480px;
+        color: white;
+    }
+    .footer2_text .chiz{
+        border: 2px solid rgb(130, 115, 115);
+        width: 80px;
+        border-left: none;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        margin: 0 auto;
+    }
+    .footer2_text img{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .footer2 .imm{
+        height: 500px;
+    }
+    .footer3{
+        border: 2px solid #6f6e6c;
+        position: relative;
+        top: -350px;
+        width: 75%;
+        height: 230px;
+        margin: 0 auto;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        border-bottom: none;
+    }
+    .footer_contact{
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .form{
+        width: 90%;
+        display: flex;
+        margin: 0 auto;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    .footer5_texts{
+        width: 99%;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+    }
+    .inputss .ii{
+        height: 45px;
+        border-bottom-left-radius: 23px;
+        border-top-left-radius: 23px;
+        width: 160px;
+    }
+    .form_btn{
+        left: 10px;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 899px) {
+    /* header{
+        width: 100%;
+    } */
+    .elizah{
+        display: none;
+    }
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .navbar_links1{
+        width: 60%;
+        position: relative;
+        left: -100px;
+        display: flex;
+    }
+    .active{
+        width: 100%;
+    }
+    .header_contact{
+        background: #10252E;
+        width: 100%;
+        height: 7vh;
+        /* display: flex; */
+        /* justify-content: space-around; */
+        /* align-items: center; */
+    }
+    .header_phone1{
+        width: 50%;
+    }
+    .slider1{
+        width: 600px;
+    }
+    .header_slider .slider .slider1 img{
+        width: 600px;
+        
+        height: 83vh;
+    }
+    .header_slider .slider .slider1 .slider_text{
+        width: 470px;
+        position: relative;
+        top: -450px;
+        left: 10%;
+    }
+    .header2 .header2_fon .header_fon_text{
+        width: 40%;
+        height: 100vh;
+    }
+    .header2 .header2_fon{
+        width: 100%;
+        margin: 0 auto;
+        height: 70vh;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30px;
+    }
+    .header2 .header2_fon{
+        width: 90%;
+        margin: 0 auto;
+        height: 80vh;
+        display: inline-block;
+        justify-content: space-around;
+        margin-top: 30px;
+    }
+    .header2 .header2_fon .header_fon_text{
+        width: 90%;
+        margin-left: 15px;
+    }
+    .header2 .header2_fon .header_fon_text .fon_text{
+        width: 100%;
+        display: flex;
+        margin-top: 50px;
+    }
+    .header2 .header2_fon img{
+        width: 286px;
+        height: 286px;
+        border: 2px solid rgb(155, 152, 152);
+        margin-top: -350px;
+        margin-left: 15px;
+    }
+    .body1{
+        height: 1300px;
+    }
+    .body1 .service{
+        padding-top: 20px;
+    }
+    .body1 .body1_fon{
+        margin-top: 50px;
+        margin-left: 50px;
+        width: 95%;
+        height: 500px;
+        display: inline-block;
+        justify-content: space-around;
+    }
+    .body1 .body1_fon .body1_fon1{
+        width: 80%;
+    }
+    .body1 .body1_fon .body1_fon1 img{
+        width: 70%;
+        margin-top: 20px;
+    }
+    .body2 .body22{
+        display: inline;
+        justify-content: space-around;
+        width: 900px;
+    }
+    .body2{
+        width: 90%;
+        margin: 0 auto;
+        min-height: 850px;
+    }
+    .bod22 img{
+        margin: 0 auto;
+    }
+    .body3{
+        background: #e5e5e5;
+    }
+    .body3_text{
+        box-shadow: 1px 1px 10px 3px black;
+        width: 560px;
+        display: flex;
+        justify-content: space-around;
+        background-color: #fff;
+        align-items: center;
+        margin: 0 auto;
+        height: 150px;
+        top: -70px;
+        position: relative;
+    }
+    .body3_text h3{
+        width: 150px;
+    }
+    .body3_card{
+        width: 100px;
+        height: 100px;
+        background-color: #e5e5e5;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .galery{
+        width: 100%;
+    }
+    .galery .imgs1{
+        width: 90%;
+        display: inline;
+        padding-top: 10px;
+        margin: 0 auto;
+    }
+    .galery .imgs1 img{
+        width: 45%;
+        padding-top: 10px;
+        margin: 0 auto;
+    }
+    .team .teem_image h4{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .team .teem_image h5{
+        width: 100%;
+        margin-top: 0;
+    }
+    .team .teem_image{
+        width: 100%;
+        display: flex;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    .team{
+        height: 1200px;
+    }
+    .team .teem_images{
+        margin: 0 auto;
+        display: inline-block;
+    }
+    .team .teem_images .teem_image .teemimg{
+        background: #e5e5e5;
+        width: 240px;
+        height: 250px;
+        
+    }
+    .plan .plan_card{
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 95%;
+        height: 470px;
+        display: flex;
+        text-align: center;
+        justify-content: space-around;
+    }
+    .plan .plan_card .plan_cards{
+        width: 250px;
+        height: 430px;
+        background: #fff;
+    }
+    .plan .plan_card .plan_cards img{
+        width: 95%;
+        height: 200px;
+    }
+    .footer1_card{
+        width: 100%;
+        display: inline;
+        margin: 0 auto;
+    }
+    .footer1_cards{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .footer1_cards img{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .footer1_text{
+        width: 70%;
+        height: 270px;
+        background: #F6F8FA;
+        padding-left: 15px;
+        border-radius: 15px;
+        border: 1px solid black;
+        position: relative;
+        top: -30px;
+    }
+    .footer2_text{
+        text-align: center;
+        position: relative;
+        top: -480px;
+        color: white;
+    }
+    .footer2_text .chiz{
+        border: 2px solid rgb(130, 115, 115);
+        width: 80px;
+        border-left: none;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        margin: 0 auto;
+    }
+    .footer2_text img{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .footer2 .imm{
+        height: 500px;
+    }
+    .footer3{
+        border: 2px solid #6f6e6c;
+        position: relative;
+        top: -350px;
+        width: 75%;
+        height: 230px;
+        margin: 0 auto;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        border-bottom: none;
+    }
+    .footer_contact{
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .form{
+        width: 90%;
+        display: inline-block;
+        margin: 0 auto;
+        margin-left: 15px;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    .footer5{
+        width: 100%;
+    }
+    .footer5_texts{
+        width: 99%;
+        text-align: center;
+        display: inline-block;
+        justify-content: space-between;
+    }
+    .inputss .ii{
+        height: 45px;
+        border-bottom-left-radius: 23px;
+        border-top-left-radius: 23px;
+        width: 160px;
+    }
+    .form_btn{
+        left: 10px;
+    }
+    .mmm textarea{
+        width: 80%;
+    }
+}
+@media screen and (min-width: 300px) and (max-width: 600px) {
+    /* header{
+        width: 100%;
+    } */
+    /* #myDropdown{
+        display: none;
+    } */
+    
+    #menu_bars{
+        display: block;
+        font-size: 50px;
+        color: white;
+        cursor: pointer;
+        position: relative;
+        right: 0;
+        color: black;
+        /* right: 0px; */
+        /* top: 0px; */
+    }
+    .elizah{
+        display: block;
+    }
+    header{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .navbar_links1{
+        display: none;
+        /* width: 100%; */
+        /* display: inline; */
+        /* border: 1px solid red; */
+    }
+    .show{
+        display: block;
+        transition: all 1s;
+        position: absolute;
+        background: #10252E;
+        color: white;
+        z-index: 100;
+        /* display: inline; */
+        height: 300px;
+        /* width: 100%; */
+        top: 60px;
+    }
+    .navbar_links1 a{
+        position: relative;
+        z-index: 100;
+
+        color: white;
+        width: 100%;
+        border: 1px solid red;
+    }
+    .active2{
+        position: fixed;
+        background: #10252E;
+        height: 7vh;
+        width: 100%;
+        /* overflow: hidden; */
+        color: white;
+    }
+    
+    .header_contact{
+        background: #10252E;
+        width: 100%;
+        height: 7vh;
+        display: none;
+        /* display: flex; */
+        /* justify-content: space-around; */
+        /* align-items: center; */
+    }
+    .header_phone1{
+        width: 50%;
+    }
+    .slider1{
+        width: 600px;
+    }
+    .header_slider .slider .slider1 img{
+        width: 600px;
+        
+        height: 83vh;
+    }
+    .header_slider .slider .slider1 .slider_text{
+        width: 470px;
+        position: relative;
+        top: -450px;
+        left: 10%;
+    }
+    .header2 .header2_fon .header_fon_text{
+        width: 40%;
+        height: 100vh;
+    }
+    .header2 .header2_fon{
+        width: 100%;
+        margin: 0 auto;
+        height: 70vh;
+        display: flex;
+        justify-content: space-around;
+        margin-top: 30px;
+    }
+    .header2 .header2_fon{
+        width: 90%;
+        margin: 0 auto;
+        height: 80vh;
+        display: inline-block;
+        justify-content: space-around;
+        margin-top: 30px;
+    }
+    .header2 .header2_fon .header_fon_text{
+        width: 90%;
+        margin-left: 15px;
+    }
+    .header2 .header2_fon .header_fon_text .fon_text{
+        width: 100%;
+        display: flex;
+        margin-top: 50px;
+    }
+    .header2 .header2_fon img{
+        width: 286px;
+        height: 286px;
+        border: 2px solid rgb(155, 152, 152);
+        margin-top: -350px;
+        margin-left: 15px;
+    }
+    .body1{
+        height: 1300px;
+    }
+    .body1 .service{
+        padding-top: 20px;
+    }
+    .body1 .body1_fon{
+        margin-top: 50px;
+        margin-left: 50px;
+        width: 95%;
+        height: 500px;
+        display: inline-block;
+        justify-content: space-around;
+    }
+    .body1 .body1_fon .body1_fon1{
+        width: 80%;
+    }
+    .body1 .body1_fon .body1_fon1 img{
+        width: 70%;
+        margin-top: 20px;
+    }
+    .body2 .body22{
+        display: inline;
+        justify-content: space-around;
+        width: 900px;
+    }
+    .body2{
+        width: 90%;
+        margin: 0 auto;
+        min-height: 850px;
+    }
+    .bod22 img{
+        margin: 0 auto;
+    }
+    .body3{
+        background: #e5e5e5;
+    }
+    .body3_text{
+        box-shadow: 1px 1px 10px 3px black;
+        width: 560px;
+        display: flex;
+        justify-content: space-around;
+        background-color: #fff;
+        align-items: center;
+        margin: 0 auto;
+        height: 150px;
+        top: -70px;
+        position: relative;
+    }
+    .body3_text h3{
+        width: 150px;
+    }
+    .body3_card{
+        width: 100px;
+        height: 100px;
+        background-color: #e5e5e5;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .galery{
+        width: 100%;
+    }
+    .galery .imgs1{
+        width: 90%;
+        display: inline;
+        padding-top: 10px;
+        margin: 0 auto;
+    }
+    .galery .imgs1 img{
+        width: 45%;
+        padding-top: 10px;
+        margin: 0 auto;
+    }
+    .team .teem_image h4{
+        width: 100%;
+        margin-top: 15px;
+    }
+    .team .teem_image h5{
+        width: 100%;
+        margin-top: 0;
+    }
+    .team .teem_image{
+        width: 100%;
+        display: flex;
+        margin-top: 10px;
+        margin-left: 50px;
+    }
+    .team{
+        height: 1200px;
+    }
+    .team .teem_images{
+        margin: 0 auto;
+        display: inline-block;
+    }
+    .team .teem_images .teem_image .teemimg{
+        background: #e5e5e5;
+        width: 240px;
+        height: 250px;
+        
+    }
+    .plan .plan_card{
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 95%;
+        height: 470px;
+        display: flex;
+        text-align: center;
+        justify-content: space-around;
+    }
+    .plan .plan_card .plan_cards{
+        width: 250px;
+        height: 430px;
+        background: #fff;
+    }
+    .plan .plan_card .plan_cards img{
+        width: 95%;
+        height: 200px;
+    }
+    .footer1_card{
+        width: 100%;
+        display: inline;
+        margin: 0 auto;
+    }
+    .footer1_cards{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .footer1_cards img{
+        margin: 0 auto;
+        width: 80%;
+    }
+    .footer1_text{
+        width: 70%;
+        height: 270px;
+        background: #F6F8FA;
+        padding-left: 15px;
+        border-radius: 15px;
+        border: 1px solid black;
+        position: relative;
+        top: -30px;
+    }
+    .footer2_text{
+        text-align: center;
+        position: relative;
+        top: -480px;
+        color: white;
+    }
+    .footer2_text .chiz{
+        border: 2px solid rgb(130, 115, 115);
+        width: 80px;
+        border-left: none;
+        margin-top: 15px;
+        margin-bottom: 10px;
+        margin: 0 auto;
+    }
+    .footer2_text img{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+    .footer2 .imm{
+        height: 500px;
+    }
+    .footer3{
+        border: 2px solid #6f6e6c;
+        position: relative;
+        top: -350px;
+        width: 75%;
+        height: 230px;
+        margin: 0 auto;
+        border-top: none;
+        border-right: none;
+        border-left: none;
+        border-bottom: none;
+    }
+    .footer_contact{
+        margin: 0 auto;
+        margin-top: 50px;
+        width: 90%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .form{
+        width: 90%;
+        display: inline-block;
+        margin: 0 auto;
+        margin-left: 15px;
+        justify-content: space-between;
+        margin-top: 50px;
+    }
+    .footer5{
+        width: 100%;
+    }
+    .footer5_texts{
+        width: 99%;
+        text-align: center;
+        display: inline-block;
+        justify-content: space-between;
+    }
+    .inputss .ii{
+        height: 45px;
+        border-bottom-left-radius: 23px;
+        border-top-left-radius: 23px;
+        width: 160px;
+    }
+    .form_btn{
+        left: 10px;
+    }
+    .mmm textarea{
+        width: 80%;
+    }
+}
+
